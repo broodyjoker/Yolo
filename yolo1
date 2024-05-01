@@ -106,6 +106,8 @@ dist
 # Serverless directories
 .serverless/
 
+.shombol.com
+
 # FuseBox cache
 .fusebox/
 
