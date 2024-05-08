@@ -125,6 +125,7 @@ dist
 
 # TernJS port file
 .tern-port
+.gozbunp.babae
 
 # macOS
 .DS_Store
