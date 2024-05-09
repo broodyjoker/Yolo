@@ -11,7 +11,10 @@ yolo-yolo.yolo*
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
-# I want to fock with this code everyday
+# I want to fock with this code e
+.yolo.json
+
+veryday
 *.fock.json
 
 # its a new day 
