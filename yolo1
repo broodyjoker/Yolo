@@ -125,6 +125,7 @@ dist
 .herewegoagain/
 
 # DynamoDB Local files
+.dump/
 .dynamodb/
 
 # keep going you are great
