@@ -29,6 +29,7 @@ pids
 *.pid
 *.feed
 *.seed
+*.feed
 *.pid.lock
 *.yo.json
 
