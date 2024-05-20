@@ -57,6 +57,8 @@ bower_components
 # node-waf configuration
 .lock-wscript
 
+# DOG IS DEAD
+
 .node.josn/*.json
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
