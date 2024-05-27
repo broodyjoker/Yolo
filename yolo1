@@ -19,6 +19,7 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 .yolo4.json
 .yolo5.json
 .yolo6.json
+.yolo7.json 
 
 veryday
 *.fock.json
