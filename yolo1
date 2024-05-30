@@ -80,6 +80,7 @@ typings/
 
 # TypeScript cache
 *.tsbuildinfo
+# wish i could code...
 
 # Optional npm cache directory
 .npm
