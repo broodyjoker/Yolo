@@ -100,6 +100,8 @@ typings/
 # Output of 'npm pack'
 *.tgz
 
+# NEO...
+
 # Yarn Integrity file
 .yarn-integrity
 
