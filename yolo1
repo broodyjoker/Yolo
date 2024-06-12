@@ -27,7 +27,6 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 # Welcome to the matrix
 
 veryday
-*.fock.json
 
 # its a new day 
 
