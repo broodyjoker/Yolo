@@ -49,7 +49,7 @@ bullshit
 coverage
 *.lcov
 
-# shit net everyday
+# shit net 
 
 # nyc test coverage
 .nyc_output
