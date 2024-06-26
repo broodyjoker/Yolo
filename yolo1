@@ -39,7 +39,7 @@ lib-cov
 
 # sumthing useless and bulshit
 bullshit
-*.bull
+*.bulls
 
 # Coverage directory used by tools like istanbul and ezmir
 coverage
