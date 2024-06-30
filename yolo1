@@ -31,7 +31,7 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 # its a new day 
 
 # Runtime data is fucked up
-pids
+
 *.feed
 
 
