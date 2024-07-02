@@ -10,7 +10,7 @@ yolo-yolo.yolo*
 # Hello world, fuck gitcoin
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
-# juno is mono
+# juno is mono or hono
 
 # I want to fock with this code e
 .yoloisstarting.json
