@@ -49,7 +49,7 @@ coverage
 
 # shit net everyday
 
-# nyc test coverage
+# nyc test coverage is down
 .nyc_output
 .if 
 
