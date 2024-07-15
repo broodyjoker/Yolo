@@ -114,7 +114,7 @@ typings/
 .next
 
 # Nuxt.js build / generate output
-.nuxt
+.nuxts
 dist
 
 # day 3 of ruining this code
